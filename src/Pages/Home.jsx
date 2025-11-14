@@ -2,7 +2,7 @@ import React, { memo } from "react";
 import { motion } from "framer-motion";
 
 const Home = () => {
-  return (
+  return (  
     <section
       id="Home"
       className="min-h-screen flex items-center justify-center pt-24 pb-20 px-6 relative overflow-hidden"
